@@ -11,7 +11,7 @@ c. Dice numbers 2,3,4 and 5 will still be played by the player.
 4. After evaluation, the player who still has the dice will repeat the 2nd step until only 1 player remains.
 a. Players who have no more dice are considered to have finished playing.
 5. The player who has the most points win.
-Make this script using a language that you are good at.
+
 Example:
 Player = 3, Dice = 4
 
